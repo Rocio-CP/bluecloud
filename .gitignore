@@ -11,6 +11,9 @@ Thumbs.db
 # temporary files
 *.swp
 *.m~
+.ipynb_checkpoints
+maps
+*.csv
 
 
 ##### Python, PyCharm
@@ -165,3 +168,4 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
