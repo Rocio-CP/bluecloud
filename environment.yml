@@ -1,0 +1,12 @@
+name: CarbonData
+channels:
+  - conda-forge
+dependencies:
+  - python >=3.8
+  - numpy  
+  - pandas
+  - erddapy >=1.1.0
+  - requests
+  - matplotlib >=3.4
+  - cartopy
+  - jupyter
